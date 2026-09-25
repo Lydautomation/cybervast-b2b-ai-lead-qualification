@@ -1,10 +1,10 @@
-Cybervast B2B AI Lead Qualification & Follow-Up Workflow
+# Cybervast B2B AI Lead Qualification & Follow-Up Workflow
 
 An AI-powered B2B lead qualification and follow-up workflow developed as a team capstone project during the Cybervast AI Automation program.
 
 The system is designed to help organize incoming business enquiries, assess lead readiness, recommend appropriate lead categories, and route prospects for the right level of follow-up while keeping final decisions under human control.
 
-The Problem
+## The Problem
 
 Cybervast receives B2B enquiries from organizations and businesses interested in services such as technology training, digital transformation, and cloud-related solutions.
 
@@ -14,34 +14,34 @@ Each enquiry could require manual review to understand the prospect’s needs, d
 
 Without an automated qualification process, potentially high-priority enquiries may require additional manual effort to identify among other incoming leads.
 
-The Solution
+## The Solution
 
 Our team developed an AI-powered lead qualification and follow-up workflow that processes incoming B2B enquiries and recommends a lead category based on the information provided.
 
 The system classifies leads into:
 
-* HOT — requires sales attention
-* WARM — requires follow-up
-* COLD — suitable for nurturing
+- **HOT** — requires sales attention
+- **WARM** — requires follow-up
+- **COLD** — suitable for nurturing
 
 The AI provides a recommendation and supporting reasoning, while the final business decision remains with the human team.
 
 Based on the recommended category, the workflow routes the enquiry through the appropriate follow-up path.
 
-Core Capabilities
+## Core Capabilities
 
-* Capture incoming B2B enquiries
-* Record lead information automatically
-* Analyze enquiry information using AI
-* Recommend HOT, WARM, or COLD lead classification
-* Provide reasoning for the qualification recommendation
-* Route leads according to their recommended category
-* Send internal notifications for leads requiring attention
-* Support follow-up communication
-* Maintain lead records for tracking and review
-* Keep final qualification and sales decisions under human control
+- Capture incoming B2B enquiries
+- Record lead information automatically
+- Analyze enquiry information using AI
+- Recommend HOT, WARM, or COLD lead classification
+- Provide reasoning for the qualification recommendation
+- Route leads according to their recommended category
+- Send internal notifications for leads requiring attention
+- Support follow-up communication
+- Maintain lead records for tracking and review
+- Keep final qualification and sales decisions under human control
 
-How It Works
+## How It Works
 
 A typical enquiry follows this process:
 
@@ -56,7 +56,7 @@ A typical enquiry follows this process:
 9. COLD leads remain available for nurturing.
 10. The business team retains control over the final decision and subsequent action.
 
-Human-in-the-Loop Design
+## Human-in-the-Loop Design
 
 The workflow is designed to support sales teams rather than replace human judgment.
 
@@ -64,42 +64,42 @@ AI is used to analyze information, organize incoming enquiries, and recommend le
 
 This approach combines automation with human oversight where business judgment is required.
 
-Monitoring & Reliability
+## Monitoring & Reliability
 
 Supporting monitoring workflows were included to improve visibility into system performance.
 
 These include:
 
-* Error monitoring and alerts
-* Daily system health checks
+- Error monitoring and alerts
+- Daily system health checks
 
 The monitoring layer helps identify workflow failures and verify that important components remain operational.
 
-Tech Stack
+## Tech Stack
 
-Automation & Orchestration: n8n
-Lead Capture: Tally
-AI / LLM: Groq
-Lead Records: Google Sheets
-Internal Notifications: Slack
-Follow-Up Communication: Gmail
-Monitoring: n8n error monitoring and daily health checks
+**Automation & Orchestration:** n8n  
+**Lead Capture:** Tally  
+**AI / LLM:** Groq  
+**Lead Records:** Google Sheets  
+**Internal Notifications:** Slack  
+**Follow-Up Communication:** Gmail  
+**Monitoring:** n8n error monitoring and daily health checks
 
-Project Context
+## Project Context
 
 This workflow was developed as a two-person team capstone project during the Cybervast AI Automation training program.
 
 The solution was presented to Cybervast as part of the final project presentation. Following the demonstration, Cybervast indicated that the workflow would be considered for possible adoption.
 
-Privacy & Data Handling
+## Privacy & Data Handling
 
 Public demonstrations and documentation for this project use fictional or test lead information only.
 
 No private business data, API keys, authentication tokens, credentials, or other sensitive information are included in the public project documentation.
 
-⸻
+---
 
-Team Project — Cybervast AI Automation Capstone
+**Team Project — Cybervast AI Automation Capstone**
 
-Lydia Ogbene Odey
+**Lydia Ogbene Odey**  
 AI Automation Specialist | Health Tech Automation | Sales & CRM Automation
