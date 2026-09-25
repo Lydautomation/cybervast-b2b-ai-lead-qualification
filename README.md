@@ -56,6 +56,12 @@ A typical enquiry follows this process:
 9. COLD leads remain available for nurturing.
 10. The business team retains control over the final decision and subsequent action.
 
+## System Design
+
+The system design shows the architecture, lead-routing logic, process flow, human oversight, and monitoring structure behind the Cybervast B2B AI Lead Qualification & Follow-Up Workflow.
+
+[**View Cybervast System Design**](docs/cybervast-system-design.pdf)
+
 ## Demo
 
 Watch the Cybervast B2B AI Lead Qualification & Follow-Up Workflow in action, from lead submission and AI-powered qualification to lead routing and follow-up.
