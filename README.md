@@ -56,6 +56,12 @@ A typical enquiry follows this process:
 9. COLD leads remain available for nurturing.
 10. The business team retains control over the final decision and subsequent action.
 
+## Demo
+
+Watch the Cybervast B2B AI Lead Qualification & Follow-Up Workflow in action, from lead submission and AI-powered qualification to lead routing and follow-up.
+
+[**Watch Cybervast Workflow Demo**](https://www.loom.com/share/cf4d57a6444048518ed031094455184e)
+
 ## Human-in-the-Loop Design
 
 The workflow is designed to support sales teams rather than replace human judgment.
