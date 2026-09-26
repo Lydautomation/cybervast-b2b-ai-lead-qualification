@@ -68,6 +68,38 @@ Watch the Cybervast B2B AI Lead Qualification & Follow-Up Workflow in action, fr
 
 [**Watch Cybervast Workflow Demo**](https://youtu.be/EMFwHWV5Ohg?si=YbXO-B1-aJkp6xPI)
 
+## Project Screenshots
+
+### Main Workflow Overview
+
+The main n8n workflow manages the process from B2B enquiry capture and AI qualification to lead routing, internal notifications, and follow-up.
+
+![Cybervast Main Workflow Overview](screenshots/cybervast-workflow-overview.png)
+
+### B2B Enquiry Form
+
+Prospects submit their business enquiry and relevant information through the enquiry form.
+
+![Cybervast B2B Enquiry Form](screenshots/b2b-enquiry-form.png)
+
+### Lead Records & AI Qualification
+
+Lead information and AI qualification results are recorded in Google Sheets for tracking and review.
+
+![Cybervast Lead Records](screenshots/lead-records-google-sheets.png)
+
+### HOT Lead Notification
+
+HOT leads requiring sales attention are sent to the team through Slack with the prospect's information and AI qualification assessment.
+
+![Cybervast HOT Lead Slack Notification](screenshots/hot-lead-slack-notification.png)
+
+### Lead Follow-Up Email
+
+The workflow supports automated email communication as part of the lead follow-up process.
+
+![Cybervast Lead Follow-Up Email](screenshots/lead-follow-up-email.png)
+
 ## Human-in-the-Loop Design
 
 The workflow is designed to support sales teams rather than replace human judgment.
