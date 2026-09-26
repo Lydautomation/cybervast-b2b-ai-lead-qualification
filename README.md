@@ -66,7 +66,7 @@ The system design shows the architecture, lead-routing logic, process flow, huma
 
 Watch the Cybervast B2B AI Lead Qualification & Follow-Up Workflow in action, from lead submission and AI-powered qualification to lead routing and follow-up.
 
-[**Watch Cybervast Workflow Demo**](https://www.loom.com/share/cf4d57a6444048518ed031094455184e)
+[**Watch Cybervast Workflow Demo**](https://youtu.be/EMFwHWV5Ohg?si=YbXO-B1-aJkp6xPI)
 
 ## Human-in-the-Loop Design
 
